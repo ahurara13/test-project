@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.row{
+    width: 100%;
+    height: auto;
+   
+    margin: auto;
+    background-color:#f0f2f5;
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 10px;
+  
+}
+.login-form{
+    width: 400px;
+    margin: auto;
+    height: auto;
+    background-color: #fff;
+    text-align: center;
+    padding-top:25px ;
+    margin-top: 23px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+.login-title{
+    padding-bottom: 15px;
+}
+.login-title span{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    display: block;
+}
+input{
+    width: 360px;
+    font-size: 15px;
+    padding-left: 10px;
+    border: 1px solid #dddfe2;
+    padding: 15px 0;
+    border-radius: 6px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    padding-left: 5px;
+}
+.binput{
+    margin-top: 10px;
+}
+.custom-link {
+    display: inline-block;
+    padding: 12px 154px;
+    background-color: #1877f2;
+    color: #fff;
+    margin-top: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    border-radius: 6px;
+    margin-bottom: 23px;
+}
+ .dont-forget {
+        display: inline-block;
+        text-decoration: none;
+        font-size: 13px;
+       color: #1877f2;
+       font-family: 'Montserrat', sans-serif;
+       margin-bottom: 20px
+ }
+ .login-form img{
+    margin-bottom: 20px;
+ }
+ .xtra {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #36a420;
+    color: #fff;
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
